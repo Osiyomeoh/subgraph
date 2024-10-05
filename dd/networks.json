@@ -1,0 +1,8 @@
+{
+  "scroll-sepolia": {
+    "MyToken": {
+      "address": "0x82B5fA1d51AB2A24449f0526F399dFdb2cb7782D",
+      "startBlock": 0
+    }
+  }
+}
